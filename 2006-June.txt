@@ -1,0 +1,60 @@
+From ryan2057 at gmx.de  Wed Jun 28 20:42:19 2006
+From: ryan2057 at gmx.de (M.W.)
+Date: Wed, 28 Jun 2006 20:42:19 +0200
+Subject: [Griffith-user] german language file
+Message-ID: <44A2CD8B.8030204@gmx.de>
+
+Hi,
+
+as mentioned in the forum,
+http://griffith.vasconunes.net/forum/index.php?topic=101.0
+I downloaded the german language file and translated the bits that were
+missing and also corrected some errors.
+I left two lines unchanged, since I cannot translate them without seeing
+the context. I will look for it, as soon as I can.
+Grimmwolf
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: de.po
+URL: <https://lists.berlios.de/pipermail/griffith-user/attachments/20060628/663146d5/attachment.ksh>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 187 bytes
+Desc: OpenPGP digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-user/attachments/20060628/663146d5/attachment.pgp>
+
+From ozarow at gmail.com  Thu Jun 29 17:45:58 2006
+From: ozarow at gmail.com (POX)
+Date: Thu, 29 Jun 2006 17:45:58 +0200
+Subject: [Griffith-user] german language file
+In-Reply-To: <44A2CD8B.8030204@gmx.de>
+References: <44A2CD8B.8030204@gmx.de>
+Message-ID: <20060629154558.GN8425@pox.one.pl>
+
+M.W. (ryan2057 at gmx.de):
+> as mentioned in the forum,
+> http://griffith.vasconunes.net/forum/index.php?topic=101.0
+> I downloaded the german language file and translated the bits that were
+> missing and also corrected some errors.
+> I left two lines unchanged, since I cannot translate them without seeing
+> the context. I will look for it, as soon as I can.
+> Grimmwolf
+
+Thanks, changes committed in SVN rev. 377
+
+(I have added you full name from your GPG key, hope it's not a problem)
+
+PS Please use griffith-devel at lists.berlios.de mailing list
+-- 
+-=[     Piotr Ozarowski     ]=-
+-=[ http://www.ozarowski.pl ]=-
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-user/attachments/20060629/a678a5e1/attachment.pgp>
+

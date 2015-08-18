@@ -1,0 +1,69 @@
+From piotr at griffith.cc  Sun Dec 11 21:16:57 2011
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Sun, 11 Dec 2011 21:16:57 +0100
+Subject: [Griffith-user] Griffith's new mailing lists
+Message-ID: <20111211201657.GB4173@piotro.eu>
+
+Hi,
+
+BerliOs.de will be closed by the end of this year, so Griffith's mailing
+lists have been moved to Google Groups. You can send emails to most of
+these lists even without subscribing. If you were subscribed to one of our
+lists, you will receive an invitation to the new one soon.
+
+
+Griffith announce (Griffith announcements mailing list)
+=================
+E-mail:  griffith-announce at googlegroups.com
+List-ID: griffith-announce.googlegroups.com
+WWW: https://groups.google.com/forum/#!forum/griffith-announce
+info: https://groups.google.com/group/griffith-announce
+RSS: https://groups.google.com/group/griffith-announce/feeds
+
+
+Griffith devel (Griffith development mailing list)
+==============
+E-mail:  griffith-devel at googlegroups.com
+List-ID: griffith-devel.googlegroups.com
+WWW: https://groups.google.com/forum/#!forum/griffith-devel
+info: https://groups.google.com/group/griffith-devel
+RSS: https://groups.google.com/group/griffith-devel/feeds
+
+
+Griffith user (Griffith's users mailing list)
+=============
+E-mail:  griffith-user at googlegroups.com
+List-ID: griffith-user.googlegroups.com
+WWW: https://groups.google.com/forum/#!forum/griffith-user
+info: https://groups.google.com/group/griffith-user
+RSS: https://groups.google.com/group/griffith-user/feeds
+
+
+Griffith Polish (Support for Griffith users that speak Polish)
+===============
+E-mail:  griffith-polish at googlegroups.com
+List-ID: griffith-polish.googlegroups.com
+WWW: https://groups.google.com/forum/#!forum/griffith-polish
+info: https://groups.google.com/group/griffith-polish
+RSS: https://groups.google.com/group/griffith-polish/feeds
+
+
+Griffith German (Support for Griffith users that speak German)
+===============
+E-mail:  griffith-german at googlegroups.com
+List-ID: griffith-german.googlegroups.com
+WWW: https://groups.google.com/forum/#!forum/griffith-german
+info: https://groups.google.com/group/griffith-german
+RSS: https://groups.google.com/group/griffith-german/feeds
+-- 
+Piotr O?arowski                         Debian GNU/Linux Developer
+www.ozarowski.pl          www.griffith.cc           www.debian.org
+GPG Fingerprint: 1D2F A898 58DA AF62 1786 2DF7 AEF6 F1A2 A745 7645
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 836 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-user/attachments/20111211/5d07a182/attachment.pgp>
+
